@@ -1,1 +1,1 @@
-# file-input-outputinput output
+input output
